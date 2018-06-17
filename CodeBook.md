@@ -1,14 +1,14 @@
-#Code Book
+# Code Book
 
 This code book summarises the data found in tidydata.txt, originally collected by the SmartLab at DIBRIS - University of Genova, Italy. More information and the source data can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-##Identifier
+## Identifier
 * subject - The ID of the volunteer
 
-##Activities
+## Activities
 * activity - A description of the activity performed (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 
-##Measurements
+## Measurements
 All values in tidydata.txt are the result of averaging measurements within subject and activity. '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 * tBodyAccmeanX

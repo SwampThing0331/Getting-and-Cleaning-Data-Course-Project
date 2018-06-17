@@ -1,8 +1,8 @@
-#Getting and Cleaning Data Course Project
+# Getting and Cleaning Data Course Project
 
 The R script, run_analysis.R, takes the original data and organizes it for future analysis. The zip file can be found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-##Steps Performed:
+## Steps Performed:
 
 1. Download and unzip data set
 2. Extract measure column names from features.txt
